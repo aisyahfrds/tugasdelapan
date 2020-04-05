@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pergi Kuliner</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_2" >Daftar Kuliner</string>
+    <string name="tab_text_1" >Home</string>
+    <string name="tab_text_3" >Kontak</string>
+    <string name="kontak_kami">Kontak Kami</string>
+    <string name="todo">TODO</string>
+</resources>
